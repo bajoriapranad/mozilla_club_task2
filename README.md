@@ -25,5 +25,4 @@ This project is built using HTML, CSS, and JavaScript and is suitable for beginn
 
 ---
 
-## 📂 Project Structure
 
